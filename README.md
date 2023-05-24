@@ -1,6 +1,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ydikool/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ydikool/frontend-project-44/actions)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/ac2a06b57fc48043ac1d/maintainability)](https://codeclimate.com/github/ydikool/frontend-project-44/maintainability)
+
 ## For start game 'Brain even'
 ```sh 
 $ brain-even
